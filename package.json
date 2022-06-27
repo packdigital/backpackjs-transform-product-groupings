@@ -1,0 +1,16 @@
+{
+  "name": "@packdigital/backpackjs-transform-product-groupings",
+  "version": "3.0.2-delete-dead-packages.37+7d4d507f",
+  "license": "MIT",
+  "author": "Barney Rubble <dev@packdigial.com> (http://packdigital.com/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/packdigital/backpackjs-monorepo.git",
+    "directory": "transforms/packdigital-backpackjs-transform-product-groupings"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "7d4d507ffcd8fe4bb734b4e750dc32f6ff2defea"
+}
